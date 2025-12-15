@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+pandas
+jax
+chaospy
+torch
+numba
+jupyter
+ipykernel
